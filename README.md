@@ -1,2 +1,2 @@
 # masterchefjunior
-creating a food recipe
+creating a food recipe for cake
